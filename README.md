@@ -14,6 +14,9 @@
     
 ### Project Overview
 This project analyzes global layoffs from 2020 to 2022, focusing on the impact of the COVID-19 pandemic on the labor force across various industries and countries. The dataset includes detailed information on layoffs by company, industry, and country, providing a comprehensive view of how the global workforce was affected during this period.
+- [Tablaeu Report](https://public.tableau.com/views/project_laidoff/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Laidoff-Project](https://github.com/user-attachments/assets/24d63c74-245d-4f09-81b2-8e1b25cc457c)
 
 ### Data Source
 
